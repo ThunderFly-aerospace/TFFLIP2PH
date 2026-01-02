@@ -65,8 +65,8 @@ Eurocircuits class: 4A
 
 Components count: (SMD/THT)
 
-- Top: 0/1 (THT)
-- Bottom: 0/0 (NONE)
+- Top: 0/0 (NONE)
+- Bottom: 0/1 (THT)
 
 Defined tracks:
 
