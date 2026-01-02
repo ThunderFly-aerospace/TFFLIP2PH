@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/github/workspace/hw/sch_pcb/TFFLIP2PH.kicad_sch</source>
+    <date>2026-01-02T23:04:49+0000</date>
+    <tool>Eeschema 9.0.6+1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>TFFLIP2PH</title>
+        <company>ThunderFly s.r.o.</company>
+        <rev>A</rev>
+        <date/>
+        <source>TFFLIP2PH.kicad_sch</source>
+        <comment number="1" value="Flipper Zero to Pixhawk\n(Dronecode standard)\nperipheral adapter"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>Flipper_Zero</value>
+      <footprint>Module:Flipper_Zero_Straight</footprint>
+      <datasheet>https://docs.flipper.net/development</datasheet>
+      <description>Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body</description>
+      <fields>
+        <field name="Footprint">Module:Flipper_Zero_Straight</field>
+        <field name="Datasheet">https://docs.flipper.net/development</field>
+        <field name="Description">Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body</field>
+      </fields>
+      <libsource lib="MCU_Module" part="Flipper_Zero" description="Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFFLIP2PH.kicad_sch"/>
+      <property name="ki_keywords" value="Flipper Zero  Microcontroller Module STM32  USB"/>
+      <property name="ki_fp_filters" value="*Flipper?Zero*Straight* *Flipper?Zero*Angled*"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7dfe8e5a-18bb-4c5d-807d-9ec9244042ac</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="MCU_Module" part="Flipper_Zero">
+      <description>Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body</description>
+      <docs>https://docs.flipper.net/development</docs>
+      <footprints>
+        <fp>*Flipper?Zero*Straight*</fp>
+        <fp>*Flipper?Zero*Angled*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Flipper_Zero</field>
+        <field name="Footprint"/>
+        <field name="Datasheet">https://docs.flipper.net/development</field>
+        <field name="Description">Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body</field>
+      </fields>
+      <pins>
+        <pin num="1" name="5V" type="power_out"/>
+        <pin num="2" name="PA7" type="bidirectional"/>
+        <pin num="3" name="PA6" type="bidirectional"/>
+        <pin num="4" name="PA4" type="bidirectional"/>
+        <pin num="5" name="PB3" type="bidirectional"/>
+        <pin num="6" name="PB2" type="bidirectional"/>
+        <pin num="7" name="PC3" type="bidirectional"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="3.3V" type="power_out"/>
+        <pin num="10" name="PA14" type="bidirectional"/>
+        <pin num="11" name="GND" type="passive"/>
+        <pin num="12" name="PA13" type="bidirectional"/>
+        <pin num="13" name="PB6" type="bidirectional"/>
+        <pin num="14" name="PB7" type="bidirectional"/>
+        <pin num="15" name="PC1" type="bidirectional"/>
+        <pin num="16" name="PC0" type="bidirectional"/>
+        <pin num="17" name="PB14" type="bidirectional"/>
+        <pin num="18" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="MCU_Module">
+      <uri>/usr/share/kicad/symbols//MCU_Module.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+3.3V" class="Default">
+      <node ref="J1" pin="9" pinfunction="3.3V" pintype="power_out"/>
+    </net>
+    <net code="2" name="+5V" class="Default">
+      <node ref="J1" pin="1" pinfunction="5V" pintype="power_out"/>
+    </net>
+    <net code="3" name="GND" class="Default">
+      <node ref="J1" pin="11" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="18" pinfunction="GND" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="4" name="unconnected-(J1-PA4-Pad4)" class="Default">
+      <node ref="J1" pin="4" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="unconnected-(J1-PA6-Pad3)" class="Default">
+      <node ref="J1" pin="3" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="unconnected-(J1-PA7-Pad2)" class="Default">
+      <node ref="J1" pin="2" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="unconnected-(J1-PA13-Pad12)" class="Default">
+      <node ref="J1" pin="12" pinfunction="PA13" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="unconnected-(J1-PA14-Pad10)" class="Default">
+      <node ref="J1" pin="10" pinfunction="PA14" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="unconnected-(J1-PB2-Pad6)" class="Default">
+      <node ref="J1" pin="6" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="unconnected-(J1-PB3-Pad5)" class="Default">
+      <node ref="J1" pin="5" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="unconnected-(J1-PB6-Pad13)" class="Default">
+      <node ref="J1" pin="13" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="unconnected-(J1-PB7-Pad14)" class="Default">
+      <node ref="J1" pin="14" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="unconnected-(J1-PB14-Pad17)" class="Default">
+      <node ref="J1" pin="17" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="unconnected-(J1-PC0-Pad16)" class="Default">
+      <node ref="J1" pin="16" pinfunction="PC0" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="unconnected-(J1-PC1-Pad15)" class="Default">
+      <node ref="J1" pin="15" pinfunction="PC1" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="unconnected-(J1-PC3-Pad7)" class="Default">
+      <node ref="J1" pin="7" pinfunction="PC3" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>
