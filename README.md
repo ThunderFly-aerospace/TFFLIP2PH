@@ -2,6 +2,10 @@
 
 TFFLIP2PH is a compact hardware adapter that allows [Flipper Zero](https://flipper.net) to interface with peripherals using the Pixhawk / Dronecode connector standard. The board exposes common Pixhawk-style peripheral interfaces (UART, I2C, SPI, PWM) and provides regulated 5 V peripheral power, enabling rapid sensor prototyping, testing, and demonstration directly from Flipper Zero. This project is intended as a development and experimental tool, not as a flight controller or flight-qualified hardware.
 
+
+![TFFLIP2PH top view](doc/gen/img/TFFLIP2PH-top.png)
+![TFFLIP2PH bottom view](doc/gen/img/TFFLIP2PH-bottom.png)
+
 ## Features
 
 * Flipper Zero GPIO to Pixhawk-compatible JST-GH connectors
