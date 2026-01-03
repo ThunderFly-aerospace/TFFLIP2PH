@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/TFFLIP2PH.kicad_sch</source>
-    <date>2026-01-02T23:57:51+0000</date>
+    <date>2026-01-03T22:33:41+0000</date>
     <tool>Eeschema 9.0.6+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -59,8 +59,148 @@
       <sheetpath names="/" tstamps="/"/>
       <tstamps>7dfe8e5a-18bb-4c5d-807d-9ec9244042ac</tstamps>
     </comp>
+    <comp ref="J2">
+      <value>SM10B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM10B-GHS-TB_1x10-1MP_P1.25mm_Horizontal</footprint>
+      <fields>
+        <field name="UST_ID">5fa0f69e12875025b397791d</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM10B-GHS-TB_1x10-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM10B-GHS-TB" description="Zásuvka; kabel-pl.spoj; vidlice; GH; 1,25mm; PIN: 10; SMT; 50V; 1A"/>
+      <property name="UST_ID" value="5fa0f69e12875025b397791d"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFFLIP2PH.kicad_sch"/>
+      <property name="ki_keywords" value="Zásuvka; kabel-pl.spoj; vidlice; GH; 1,25mm; PIN: 10; SMT; 50V; 1A"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>80722cfe-aafa-48b2-8303-a5de1d070539</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>SM06B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</footprint>
+      <description>1x07 2.54 mm pitch header</description>
+      <fields>
+        <field name="Footprint">Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">1x07 2.54 mm pitch header</field>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM06B-GHS-TB" description="1x07 2.54 mm pitch header"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFFLIP2PH.kicad_sch"/>
+      <property name="ki_keywords" value="1x07, header, connector, pinheader"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e20b950b-afd5-4e46-bff6-cb566d44705a</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Angled Pinheader</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal</footprint>
+      <datasheet>5c70984412875079b91f879d</datasheet>
+      <fields>
+        <field name="UST_ID"/>
+        <field name="Footprint">Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Horizontal</field>
+        <field name="Datasheet">5c70984412875079b91f879d</field>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MLAB_HEADER" part="HEADER_1x03" description="1x03 2.54 mm pitch header"/>
+      <property name="UST_ID" value=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFFLIP2PH.kicad_sch"/>
+      <property name="ki_keywords" value="1x03, header, connector, pinheader"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>817f93a8-96e0-441b-92da-c10dea783403</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>SM06B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</footprint>
+      <fields>
+        <field name="UST_ID">5fa0f70212875025b3977932</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM06B-GHS-TB" description="1x07 2.54 mm pitch header"/>
+      <property name="UST_ID" value="5fa0f70212875025b3977932"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFFLIP2PH.kicad_sch"/>
+      <property name="ki_keywords" value="1x07, header, connector, pinheader"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>230bbc19-3c3d-452e-b882-6655489f32c9</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>SM07B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM07B-GHS-TB_1x07-1MP_P1.25mm_Horizontal</footprint>
+      <fields>
+        <field name="UST_ID">5c7250081287500b4e112e78</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM07B-GHS-TB_1x07-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="ISM02A-rescue" part="SM07B-GHS-TB-MLAB_CONNECTORS_JST-ISM02A-rescue" description=""/>
+      <property name="UST_ID" value="5c7250081287500b4e112e78"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFFLIP2PH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a5ab5ce6-6aaa-41c0-a449-9fe2ec232905</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>SM04B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal</footprint>
+      <fields>
+        <field name="UST_id"/>
+        <field name="UST_ID">5c86273d1287500b4e0280be</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM04B-GHS-TB" description=""/>
+      <property name="UST_id" value=""/>
+      <property name="UST_ID" value="5c86273d1287500b4e0280be"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFFLIP2PH.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20c11fae-a64f-418a-878f-b7029e0be179</tstamps>
+    </comp>
+    <comp ref="J8">
+      <value>SM06B-GHS-TB</value>
+      <footprint>Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</footprint>
+      <fields>
+        <field name="UST_ID">5fa0f70212875025b3977932</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <libsource lib="MLAB_CONNECTORS_JST" part="SM06B-GHS-TB" description="1x07 2.54 mm pitch header"/>
+      <property name="UST_ID" value="5fa0f70212875025b3977932"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TFFLIP2PH.kicad_sch"/>
+      <property name="exclude_from_bom"/>
+      <property name="dnp"/>
+      <property name="ki_keywords" value="1x07, header, connector, pinheader"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a41d7837-99e9-4441-8057-72811cf70c31</tstamps>
+    </comp>
   </components>
   <libparts>
+    <libpart lib="ISM02A-rescue" part="SM07B-GHS-TB-MLAB_CONNECTORS_JST-ISM02A-rescue">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SM07B-GHS-TB-MLAB_CONNECTORS_JST-ISM02A-rescue</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM07B-GHS-TB_1x07-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="7" name="" type="input"/>
+        <pin num="MP" name="" type="input"/>
+      </pins>
+    </libpart>
     <libpart lib="MCU_Module" part="Flipper_Zero">
       <description>Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body</description>
       <docs>https://docs.flipper.net/development</docs>
@@ -96,6 +236,79 @@
         <pin num="18" name="GND" type="passive"/>
       </pins>
     </libpart>
+    <libpart lib="MLAB_CONNECTORS_JST" part="SM04B-GHS-TB">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SM04B-GHS-TB</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description"/>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="MP" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_CONNECTORS_JST" part="SM06B-GHS-TB">
+      <description>1x07 2.54 mm pitch header</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SM06B-GHS-TB</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">1x07 2.54 mm pitch header</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+        <pin num="4" name="" type="input"/>
+        <pin num="5" name="" type="input"/>
+        <pin num="6" name="" type="input"/>
+        <pin num="MP" name="" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_CONNECTORS_JST" part="SM10B-GHS-TB">
+      <description>Zásuvka; kabel-pl.spoj; vidlice; GH; 1,25mm; PIN: 10; SMT; 50V; 1A</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">SM10B-GHS-TB</field>
+        <field name="Footprint">Connector_JST:JST_GH_SM06B-GHS-TB_1x10-1MP_P1.25mm_Horizontal</field>
+        <field name="Datasheet"/>
+        <field name="Description">Zásuvka; kabel-pl.spoj; vidlice; GH; 1,25mm; PIN: 10; SMT; 50V; 1A</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+        <pin num="3" name="" type="passive"/>
+        <pin num="4" name="" type="passive"/>
+        <pin num="5" name="" type="passive"/>
+        <pin num="6" name="" type="passive"/>
+        <pin num="7" name="" type="passive"/>
+        <pin num="8" name="" type="passive"/>
+        <pin num="9" name="" type="passive"/>
+        <pin num="10" name="" type="passive"/>
+        <pin num="MP" name="" type="free"/>
+      </pins>
+    </libpart>
+    <libpart lib="MLAB_HEADER" part="HEADER_1x03">
+      <description>1x03 2.54 mm pitch header</description>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">HEADER_1x03</field>
+        <field name="Footprint"/>
+        <field name="Datasheet"/>
+        <field name="Description">1x03 2.54 mm pitch header</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="input"/>
+        <pin num="2" name="" type="input"/>
+        <pin num="3" name="" type="input"/>
+      </pins>
+    </libpart>
     <libpart lib="TF_LOGO" part="LOGO">
       <fields>
         <field name="Reference">G</field>
@@ -117,50 +330,146 @@
     </net>
     <net code="2" name="+5V" class="Default">
       <node ref="J1" pin="1" pinfunction="5V" pintype="power_out"/>
+      <node ref="J3" pin="1" pintype="input"/>
+      <node ref="J4" pin="2" pintype="input"/>
+      <node ref="J5" pin="1" pintype="input"/>
+      <node ref="J6" pin="1" pintype="input"/>
+      <node ref="J7" pin="1" pintype="input"/>
     </net>
-    <net code="3" name="GND" class="Default">
+    <net code="3" name="+5VA" class="Default">
+      <node ref="J2" pin="1" pintype="passive"/>
+    </net>
+    <net code="4" name="/#CS" class="Default">
+      <node ref="J6" pin="5" pintype="input"/>
+    </net>
+    <net code="5" name="/#CTS" class="Default">
+      <node ref="J5" pin="4" pintype="input"/>
+      <node ref="J8" pin="5" pintype="input"/>
+    </net>
+    <net code="6" name="/#RTS" class="Default">
+      <node ref="J5" pin="5" pintype="input"/>
+      <node ref="J8" pin="4" pintype="input"/>
+    </net>
+    <net code="7" name="/BUZZER" class="Default">
+      <node ref="J2" pin="9" pintype="passive"/>
+    </net>
+    <net code="8" name="/I2C2.SCL" class="Default">
+      <node ref="J3" pin="4" pintype="input"/>
+    </net>
+    <net code="9" name="/I2C2.SDA" class="Default">
+      <node ref="J3" pin="5" pintype="input"/>
+    </net>
+    <net code="10" name="/MISO" class="Default">
+      <node ref="J6" pin="3" pintype="input"/>
+    </net>
+    <net code="11" name="/MOSI" class="Default">
+      <node ref="J6" pin="4" pintype="input"/>
+    </net>
+    <net code="12" name="/PWM" class="Default">
+      <node ref="J4" pin="1" pintype="input"/>
+    </net>
+    <net code="13" name="/RX" class="Default">
+      <node ref="J2" pin="2" pintype="passive"/>
+      <node ref="J3" pin="2" pintype="input"/>
+    </net>
+    <net code="14" name="/RXD" class="Default">
+      <node ref="J5" pin="3" pintype="input"/>
+      <node ref="J8" pin="2" pintype="input"/>
+    </net>
+    <net code="15" name="/SAFETY_SW" class="Default">
+      <node ref="J2" pin="6" pintype="passive"/>
+    </net>
+    <net code="16" name="/SAFETY_SW_LED" class="Default">
+      <node ref="J2" pin="7" pintype="passive"/>
+    </net>
+    <net code="17" name="/SAFE_VCC" class="Default">
+      <node ref="J2" pin="8" pintype="passive"/>
+    </net>
+    <net code="18" name="/SCK" class="Default">
+      <node ref="J6" pin="2" pintype="input"/>
+    </net>
+    <net code="19" name="/SCL" class="Default">
+      <node ref="J7" pin="2" pintype="input"/>
+    </net>
+    <net code="20" name="/SCL1" class="Default">
+      <node ref="J2" pin="4" pintype="passive"/>
+    </net>
+    <net code="21" name="/SDA" class="Default">
+      <node ref="J7" pin="3" pintype="input"/>
+    </net>
+    <net code="22" name="/SDA1" class="Default">
+      <node ref="J2" pin="5" pintype="passive"/>
+    </net>
+    <net code="23" name="/TX" class="Default">
+      <node ref="J2" pin="3" pintype="passive"/>
+      <node ref="J3" pin="3" pintype="input"/>
+    </net>
+    <net code="24" name="/TXD" class="Default">
+      <node ref="J5" pin="2" pintype="input"/>
+      <node ref="J8" pin="3" pintype="input"/>
+    </net>
+    <net code="25" name="GND" class="Default">
       <node ref="J1" pin="11" pinfunction="GND" pintype="passive"/>
       <node ref="J1" pin="18" pinfunction="GND" pintype="passive"/>
       <node ref="J1" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="J2" pin="10" pintype="passive"/>
+      <node ref="J2" pin="MP" pintype="free"/>
+      <node ref="J3" pin="6" pintype="input"/>
+      <node ref="J3" pin="MP" pintype="input"/>
+      <node ref="J4" pin="3" pintype="input"/>
+      <node ref="J5" pin="6" pintype="input"/>
+      <node ref="J5" pin="MP" pintype="input"/>
+      <node ref="J6" pin="7" pintype="input"/>
+      <node ref="J6" pin="MP" pintype="input"/>
+      <node ref="J7" pin="4" pintype="input"/>
+      <node ref="J7" pin="MP" pintype="input"/>
+      <node ref="J8" pin="6" pintype="input"/>
+      <node ref="J8" pin="MP" pintype="input"/>
     </net>
-    <net code="4" name="unconnected-(J1-PA4-Pad4)" class="Default">
+    <net code="26" name="unconnected-(J1-PA4-Pad4)" class="Default">
       <node ref="J1" pin="4" pinfunction="PA4" pintype="bidirectional"/>
     </net>
-    <net code="5" name="unconnected-(J1-PA6-Pad3)" class="Default">
+    <net code="27" name="unconnected-(J1-PA6-Pad3)" class="Default">
       <node ref="J1" pin="3" pinfunction="PA6" pintype="bidirectional"/>
     </net>
-    <net code="6" name="unconnected-(J1-PA7-Pad2)" class="Default">
+    <net code="28" name="unconnected-(J1-PA7-Pad2)" class="Default">
       <node ref="J1" pin="2" pinfunction="PA7" pintype="bidirectional"/>
     </net>
-    <net code="7" name="unconnected-(J1-PA13-Pad12)" class="Default">
+    <net code="29" name="unconnected-(J1-PA13-Pad12)" class="Default">
       <node ref="J1" pin="12" pinfunction="PA13" pintype="bidirectional"/>
     </net>
-    <net code="8" name="unconnected-(J1-PA14-Pad10)" class="Default">
+    <net code="30" name="unconnected-(J1-PA14-Pad10)" class="Default">
       <node ref="J1" pin="10" pinfunction="PA14" pintype="bidirectional"/>
     </net>
-    <net code="9" name="unconnected-(J1-PB2-Pad6)" class="Default">
+    <net code="31" name="unconnected-(J1-PB2-Pad6)" class="Default">
       <node ref="J1" pin="6" pinfunction="PB2" pintype="bidirectional"/>
     </net>
-    <net code="10" name="unconnected-(J1-PB3-Pad5)" class="Default">
+    <net code="32" name="unconnected-(J1-PB3-Pad5)" class="Default">
       <node ref="J1" pin="5" pinfunction="PB3" pintype="bidirectional"/>
     </net>
-    <net code="11" name="unconnected-(J1-PB6-Pad13)" class="Default">
+    <net code="33" name="unconnected-(J1-PB6-Pad13)" class="Default">
       <node ref="J1" pin="13" pinfunction="PB6" pintype="bidirectional"/>
     </net>
-    <net code="12" name="unconnected-(J1-PB7-Pad14)" class="Default">
+    <net code="34" name="unconnected-(J1-PB7-Pad14)" class="Default">
       <node ref="J1" pin="14" pinfunction="PB7" pintype="bidirectional"/>
     </net>
-    <net code="13" name="unconnected-(J1-PB14-Pad17)" class="Default">
+    <net code="35" name="unconnected-(J1-PB14-Pad17)" class="Default">
       <node ref="J1" pin="17" pinfunction="PB14" pintype="bidirectional"/>
     </net>
-    <net code="14" name="unconnected-(J1-PC0-Pad16)" class="Default">
+    <net code="36" name="unconnected-(J1-PC0-Pad16)" class="Default">
       <node ref="J1" pin="16" pinfunction="PC0" pintype="bidirectional"/>
     </net>
-    <net code="15" name="unconnected-(J1-PC1-Pad15)" class="Default">
+    <net code="37" name="unconnected-(J1-PC1-Pad15)" class="Default">
       <node ref="J1" pin="15" pinfunction="PC1" pintype="bidirectional"/>
     </net>
-    <net code="16" name="unconnected-(J1-PC3-Pad7)" class="Default">
+    <net code="38" name="unconnected-(J1-PC3-Pad7)" class="Default">
       <node ref="J1" pin="7" pinfunction="PC3" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="unconnected-(J6-Pad6)" class="Default">
+      <node ref="J6" pin="6" pintype="input"/>
+    </net>
+    <net code="40" name="unconnected-(J8-Pad1)" class="Default">
+      <node ref="J8" pin="1" pintype="input+no_connect"/>
     </net>
   </nets>
 </export>

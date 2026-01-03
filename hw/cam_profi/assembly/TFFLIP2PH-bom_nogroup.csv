@@ -1,2 +1,8 @@
-Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
-1,Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body,Flipper_Zero,J1,Flipper_Zero,Flipper_Zero_Straight,1,https://docs.flipper.net/development
+Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet,ust_id
+1,1x03 2.54 mm pitch header,HEADER_1x03,J4,Angled Pinheader,PinHeader_1x03_P2.54mm_Horizontal,1,5c70984412875079b91f879d,
+2,Flipper Zero is a portable multi-tool for pentesters and geeks in a toy-like body,Flipper_Zero,J1,Flipper_Zero,Flipper_Zero_Straight,1,https://docs.flipper.net/development,
+3,,SM04B-GHS-TB,J7,SM04B-GHS-TB,JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal,1,,5c86273d1287500b4e0280be
+4,1x07 2.54 mm pitch header,SM06B-GHS-TB,J3,SM06B-GHS-TB,JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal,1,,
+5,1x07 2.54 mm pitch header,SM06B-GHS-TB,J5,SM06B-GHS-TB,JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal,1,,5fa0f70212875025b3977932
+6,,SM07B-GHS-TB-MLAB_CONNECTORS_JST-ISM02A-rescue,J6,SM07B-GHS-TB,JST_GH_SM07B-GHS-TB_1x07-1MP_P1.25mm_Horizontal,1,,5c7250081287500b4e112e78
+7,"Zásuvka; kabel-pl.spoj; vidlice; GH; 1,25mm; PIN: 10; SMT; 50V; 1A",SM10B-GHS-TB,J2,SM10B-GHS-TB,JST_GH_SM10B-GHS-TB_1x10-1MP_P1.25mm_Horizontal,1,,5fa0f69e12875025b397791d
