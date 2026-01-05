@@ -36,29 +36,29 @@ Stackup:
 
 Clearance: 0.2 mm (8 mils)
 
-Track width: N/A mm (N/A mils)
+Track width: 0.4 mm (16 mils)
 
-- By design rules: 0.0 mm (0 mils)
+- By design rules: 0.2 mm (8 mils)
 
-Drill: 1.1 mm (43 mils)
+Drill: 0.5 mm (20 mils)
 
-- Vias: N/A mm (N/A mils) [Design: 0.4 mm (16 mils)]
+- Vias: 0.5 mm (20 mils) [Design: 0.4 mm (16 mils)]
 - Pads: 1.1 mm (43 mils)
 - The above values are real drill sizes, they add 0.1 mm (4 mils) to plated holes (PTH)
 
-Via: N/A/N/A mm (N/A/N/A mils)
+Via: 0.8/0.4 mm (31/16 mils)
 
-- By design rules: 0.5/0.3 mm (20/12 mils)
+- By design rules: 0.8/0.3 mm (31/12 mils)
 - Micro via: yes [0.2/0.1 mm (8/4 mils)]
 - Buried/blind via: yes
-- Total: 0 (thru: 0 buried/blind: 0 micro: 0)
+- Total: 26 (thru: 26 buried/blind: 0 micro: 0)
 
-Outer Annular Ring: 0.3 mm (12 mils)
+Outer Annular Ring: 0.15 mm (6 mils)
 
 - By design rules: 0.3 mm (12 mils)
 
-Eurocircuits class: 4A
-- Using min drill 1.1 mm for an OAR of 0.3 mm
+Eurocircuits class: 4B
+- Using min drill 0.5 mm for an OAR of 0.15 mm
 
 
 # General stats
@@ -66,19 +66,29 @@ Eurocircuits class: 4A
 Components count: (SMD/THT)
 
 - Top: 5/0 (SMD)
-- Bottom: 1/2 (SMD + THT)
+- Bottom: 2/2 (SMD + THT)
 
 Defined tracks:
 
+- 0.25 mm (10 mils)
+- 0.3 mm (12 mils)
+- 0.4 mm (16 mils)
+- 0.5 mm (20 mils)
+- 0.6 mm (24 mils)
+- 0.7 mm (28 mils)
+- 0.8 mm (31 mils)
 
 Used tracks:
 
+- 0.4 mm (16 mils) (247) defined: yes
+- 0.7 mm (28 mils) (46) defined: yes
 
 Defined vias:
 
 
 Used vias:
 
+- 0.8/0.4 mm (31/16 mils) (Count: 26, Aspect: 1.5 A) defined: no
 
 Holes (excluding vias):
 
@@ -89,6 +99,7 @@ Oval holes:
 
 Drill tools (including vias and computing adjusts and rounding):
 
+- 0.5 mm (20 mils) (26)
 - 1.1 mm (43 mils) (21)
 
 Solder paste stats:
@@ -101,8 +112,8 @@ The stencil thickness is  0.12 mm.
 | Side   | Pads with paste | Area [mm²] | Paste [g] |
 |--------|-----------------|------------|-----------|
 | Top    |              43 |      59.38 |      0.30 |
-| Bottom |               8 |      11.28 |      0.06 |
-| Total  |              51 |      70.65 |      0.35 |
+| Bottom |              18 |      24.55 |      0.12 |
+| Total  |              61 |      83.93 |      0.42 |
 
 Note: this is just an approximation to the theoretical value. Margins of the solder mask and waste aren't computed.
 
