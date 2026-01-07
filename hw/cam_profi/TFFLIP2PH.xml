@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/TFFLIP2PH.kicad_sch</source>
-    <date>2026-01-05T23:12:15+0000</date>
+    <date>2026-01-07T09:48:34+0000</date>
     <tool>Eeschema 9.0.6+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -26,10 +26,10 @@
   <components>
     <comp ref="G1">
       <value>LOGO</value>
-      <footprint>TF_LOGA:TF 14x6,6</footprint>
+      <footprint>TF_LOGA:TF 10x4,7</footprint>
       <fields>
         <field name="UST_ID"/>
-        <field name="Footprint">TF_LOGA:TF 14x6,6</field>
+        <field name="Footprint">TF_LOGA:TF 10x4,7</field>
         <field name="Datasheet"/>
         <field name="Description"/>
       </fields>

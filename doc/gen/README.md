@@ -43,7 +43,7 @@ Track width: 0.4 mm (16 mils)
 Drill: 0.5 mm (20 mils)
 
 - Vias: 0.5 mm (20 mils) [Design: 0.4 mm (16 mils)]
-- Pads: 1.1 mm (43 mils)
+- Pads: 1.0 mm (39 mils)
 - The above values are real drill sizes, they add 0.1 mm (4 mils) to plated holes (PTH)
 
 Via: 0.8/0.4 mm (31/16 mils)
@@ -51,7 +51,7 @@ Via: 0.8/0.4 mm (31/16 mils)
 - By design rules: 0.8/0.3 mm (31/12 mils)
 - Micro via: yes [0.2/0.1 mm (8/4 mils)]
 - Buried/blind via: yes
-- Total: 26 (thru: 26 buried/blind: 0 micro: 0)
+- Total: 33 (thru: 33 buried/blind: 0 micro: 0)
 
 Outer Annular Ring: 0.15 mm (6 mils)
 
@@ -80,7 +80,7 @@ Defined tracks:
 
 Used tracks:
 
-- 0.4 mm (16 mils) (247) defined: yes
+- 0.4 mm (16 mils) (294) defined: yes
 - 0.7 mm (28 mils) (46) defined: yes
 
 Defined vias:
@@ -88,19 +88,21 @@ Defined vias:
 
 Used vias:
 
-- 0.8/0.4 mm (31/16 mils) (Count: 26, Aspect: 1.5 A) defined: no
+- 0.8/0.4 mm (31/16 mils) (Count: 33, Aspect: 1.5 A) defined: no
 
 Holes (excluding vias):
 
-- 1.0 mm (39 mils) (21)
+- 0.9 mm (35 mils) (17)
+- 1.0 mm (39 mils) (4)
 
 Oval holes:
 
 
 Drill tools (including vias and computing adjusts and rounding):
 
-- 0.5 mm (20 mils) (26)
-- 1.1 mm (43 mils) (21)
+- 0.5 mm (20 mils) (33)
+- 1.0 mm (39 mils) (17)
+- 1.1 mm (43 mils) (4)
 
 Solder paste stats:
 
