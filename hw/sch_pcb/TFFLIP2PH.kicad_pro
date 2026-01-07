@@ -60,7 +60,11 @@
       ],
       "drc_exclusions": [
         [
-          "starved_thermal|136652001|118431000|0cd361e0-e240-406f-8e0c-83f2a5352e05|ee0ad812-d94d-4757-8aa3-3afed1fe1a70|F.Cu",
+          "lib_footprint_mismatch|170434000|111487328|c6d7b8d4-c89b-4ceb-bfe8-4d0d83d02dcd|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "starved_thermal|136652000|118431000|0cd361e0-e240-406f-8e0c-83f2a5352e05|ee0ad812-d94d-4757-8aa3-3afed1fe1a70|F.Cu",
           ""
         ]
       ],

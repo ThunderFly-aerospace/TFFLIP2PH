@@ -3493,9 +3493,9 @@
 		)
 		(uuid "63384bd3-f0eb-4915-9552-5a017d984fb3")
 	)
-	(text "Payload"
+	(text "TF Payload"
 		(exclude_from_sim no)
-		(at 128.27 154.94 90)
+		(at 128.27 153.67 90)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -5346,7 +5346,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "TF_LOGA:TF 14x6,6"
+		(property "Footprint" "TF_LOGA:TF 10x4,7"
 			(at 36.83 30.48 0)
 			(effects
 				(font
