@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/TFFLIP2PH.kicad_sch</source>
-    <date>2026-01-29T23:07:36+0000</date>
+    <date>2026-01-29T23:48:11+0000</date>
     <tool>Eeschema 9.0.6+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -83,11 +83,13 @@
       <footprint>Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</footprint>
       <description>1x07 2.54 mm pitch header</description>
       <fields>
+        <field name="UST_ID">5fa0f70212875025b3977932</field>
         <field name="Footprint">Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal</field>
         <field name="Datasheet"/>
         <field name="Description">1x07 2.54 mm pitch header</field>
       </fields>
       <libsource lib="MLAB_CONNECTORS_JST" part="SM06B-GHS-TB" description="1x07 2.54 mm pitch header"/>
+      <property name="UST_ID" value="5fa0f70212875025b3977932"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TFFLIP2PH.kicad_sch"/>
       <property name="ki_keywords" value="1x07, header, connector, pinheader"/>
@@ -197,6 +199,7 @@
       <property name="UST_ID" value="5fa0f75012875025b3977948"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="TFFLIP2PH.kicad_sch"/>
+      <property name="dnp"/>
       <property name="ki_keywords" value="1x08, header, connector, pinheader"/>
       <sheetpath names="/" tstamps="/"/>
       <tstamps>c8c144df-6bd0-447a-9613-5c4ec4ca04ca</tstamps>
