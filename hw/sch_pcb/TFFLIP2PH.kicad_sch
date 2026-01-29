@@ -6535,7 +6535,7 @@
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "c8c144df-6bd0-447a-9613-5c4ec4ca04ca")
 		(property "Reference" "J9"
 			(at 131.4449 145.7681 0)
@@ -6806,6 +6806,15 @@
 			)
 		)
 		(property "Description" "1x07 2.54 mm pitch header"
+			(at 93.98 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "UST_ID" "5fa0f70212875025b3977932"
 			(at 93.98 160.02 0)
 			(effects
 				(font

@@ -3486,7 +3486,7 @@
 		(path "/c8c144df-6bd0-447a-9613-5c4ec4ca04ca")
 		(sheetname "/")
 		(sheetfile "TFFLIP2PH.kicad_sch")
-		(attr smd)
+		(attr smd dnp)
 		(fp_line
 			(start -6.735 0.26)
 			(end -6.735 1.71)
