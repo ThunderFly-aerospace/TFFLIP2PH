@@ -2,10 +2,6 @@
 
 TFFLIP2PH is a compact hardware adapter that allows [Flipper Zero](https://flipper.net) to interface with peripherals using the Pixhawk / Dronecode connector standard. The board exposes common Pixhawk-style peripheral interfaces (UART, I2C, SPI, PWM) and provides regulated 5 V peripheral power, enabling rapid sensor prototyping, testing, and demonstration directly from Flipper Zero. This project is intended as a development and experimental tool, not as a flight controller or flight-qualified hardware.
 
-
-![TFFLIP2PH top view](doc/gen/img/TFFLIP2PH-top.png)
-![TFFLIP2PH bottom view](doc/gen/img/TFFLIP2PH-bottom.png)
-
 ## Features
 
 * Flipper Zero GPIO to Pixhawk-compatible JST-GH connectors
@@ -44,5 +40,20 @@ TFFLIP2PH is a compact hardware adapter that allows [Flipper Zero](https://flipp
 
 ## Mechanical concept
 
-The board is designed to be mounted flat at the top of Flipper Zero, with connectors oriented parallel to the PCB surface.
-This allows attached peripherals to be mechanically fixed using tape or hook-and-loop fasteners on the back of the flipper zero for portable experimentation.
+The board is designed to be mounted flat at the top of Flipper Zero, with connectors oriented parallel to the PCB surface. This allows attached peripherals to be mechanically fixed using tape or hook-and-loop fasteners on the back of the flipper zero for portable experimentation.
+
+PCB is designed in the way that only one side is populated by JST connectors. Therefore, there exist two variants for use.
+
+
+### "Flight controller" mode
+
+In this configuration, the Flipper acts as a "Flight Controller" and connected devices are peripherals. 
+
+![TFFLIP2PH top view](doc/gen/img/TFFLIP2PH-top.png)
+
+
+### TF Payload mode
+
+This use case sets Flipper as a "Payload device". The Flipper is therefore connected between [TFGPS](https://docs.thunderfly.cz/avionics/TFGPS01/) and a flight controller. 
+
+![TFFLIP2PH bottom view](doc/gen/img/TFFLIP2PH-bottom.png)
