@@ -2,8 +2,8 @@
 <export version="E">
   <design>
     <source>/github/workspace/hw/sch_pcb/TFFLIP2PH.kicad_sch</source>
-    <date>2026-01-29T23:48:11+0000</date>
-    <tool>Eeschema 9.0.6+1</tool>
+    <date>2026-02-15T01:11:46+0000</date>
+    <tool>Eeschema 9.0.7+1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
         <title>TFFLIP2PH</title>
