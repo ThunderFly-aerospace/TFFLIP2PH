@@ -1155,23 +1155,87 @@
 <path style="fill: #8a8a8a;fill-opacity: 1.0000;stroke: none;fill-rule: evenodd" d="M 164.1765,110.2400 164.1575,110.3357 164.1033,110.4168 164.0222,110.4710 163.9265,110.4900 163.4265,110.4900 163.3308,110.4710 163.2497,110.4168 163.1955,110.3357 163.1765,110.2400 163.1765,108.0400 163.1955,107.9443 163.2497,107.8632 163.3308,107.8090 163.4265,107.7900 163.9265,107.7900 164.0222,107.8090 164.1033,107.8632 164.1575,107.9443 164.1765,108.0400 Z"/> 
 <path style="fill: #8a8a8a;fill-opacity: 1.0000;stroke: none;fill-rule: evenodd" d="M 154.2265,110.2400 154.2075,110.3357 154.1533,110.4168 154.0722,110.4710 153.9765,110.4900 153.4765,110.4900 153.3808,110.4710 153.2997,110.4168 153.2455,110.3357 153.2265,110.2400 153.2265,108.0400 153.2455,107.9443 153.2997,107.8632 153.3808,107.8090 153.4765,107.7900 153.9765,107.7900 154.0722,107.8090 154.1533,107.8632 154.2075,107.9443 154.2265,108.0400 Z"/> 
 </g> 
-</g></g><g transform="" id="componentContainer"><!--Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal:J7--><g transform="translate(169.672 110.49) scale(1.0, 0.999999951362911) rotate(-180.0) translate(-4.0769644 -2.4246416)"><g id="pref_12_Connector_JST__JST_GH_SM04BGHSTB_1x041MP_P125mm_Horizontal_SM04BGHSTB"><g id="pref_13pin" transform="translate(2.5124252,0.27816504)">
-    <rect style="fill:#f5f6f0;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13rect178" width="8.2158813" height="4.0158815" x="-2.5124247" y="-0.27816454"/>
-    <path style="fill:#a5a5a7;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13path2279" d="m 19.774406,1.359875 -0.968793,-1.67799872 -0.968793,-1.67799868 1.937586,-2e-7 1.937586,1e-7 -0.968792,1.67799882 z" transform="matrix(0.27234845,0,0,0.27139643,-0.33615615,0.26736706)"/>
-    <path style="fill:#f3f6f6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13path2153" d="m 19.774406,1.359875 -0.968793,-1.67799872 -0.968793,-1.67799868 1.937586,-2e-7 1.937586,1e-7 -0.968792,1.67799882 z" transform="matrix(0.26458333,0,0,0.26458333,-0.18259561,0.25388166)"/>
-    <g id="pref_13g3811" transform="translate(-0.37949425)">
-      <rect style="fill:#e2e62c;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13rect2933" width="0.19999942" height="0.19999918" x="1.051358e-05" y="3.6339235" ry="0.0052916547" rx="0.026458433"/>
-      <rect style="fill:#e2e62c;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13rect3801" width="0.19999942" height="0.19999918" x="1.2500105" y="3.6339235" ry="0.0052916547" rx="0.026458433"/>
-      <rect style="fill:#e2e62c;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13rect3803" width="0.19999942" height="0.19999918" x="2.5000105" y="3.6339235" ry="0.0052916547" rx="0.026458433"/>
-      <rect style="fill:#e2e62c;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13rect3805" width="0.19999942" height="0.19999918" x="3.7500105" y="3.6339235" ry="0.0052916547" rx="0.026458433"/>
-    </g>
-    <rect style="fill:#c2d0c8;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13rect3835" width="0.38701597" height="1.7734947" x="5.3164411" y="1.9642222"/>
-    <rect style="fill:#545457;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13rect5017" width="0.10005131" height="0.78580326" x="5.3164411" y="1.9642222" rx="0.0068400046" ry="0.011723206"/>
-    <rect style="fill:#545457;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13rect5193" width="0.10005131" height="0.11041039" x="5.5352831" y="3.5406897" rx="0.0068400046" ry="0.0016471855"/>
-    <g id="pref_13g5204" transform="matrix(-1,0,0,1,-6.2541513,0.6368897)">
-      <rect style="fill:#c2d0c8;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13rect5195" width="0.38701597" height="1.7734947" x="-4.1287427" y="1.3273324"/>
-      <rect style="fill:#545457;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13rect5197" width="0.10005131" height="0.78580326" x="-4.1287427" y="1.3273324" rx="0.0068400046" ry="0.011723206"/>
-      <rect style="fill:#545457;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none" id="pref_13rect5199" width="0.10005131" height="0.11041039" x="-3.9099009" y="2.9038" rx="0.0068400046" ry="0.0016471855"/>
-    </g>
-  </g>
-  </g></g></g></svg>
+</g></g><g transform="" id="componentContainer"><!--Connector_JST:JST_GH_SM04B-GHS-TB_1x04-1MP_P1.25mm_Horizontal:J7--><g transform="translate(169.672 110.49) scale(1.0, 1.0) rotate(-180.0) translate(-4.325 -2.8)"><g id="pref_12_Connector_JST__JST_GH_SM04BGHSTB_1x041MP_P125mm_Horizontal_SM04BGHSTB"><!-- Connector body -->
+  <rect id="pref_13body" style="fill:#f0f0f0;stroke:#888888;stroke-width:0.05" x="0.2000" y="1.2000" width="8.2500" height="4.0500"/>
+
+  <!-- Mounting pads -->
+  <rect style="fill:#c2d0c8;stroke:none" width="1.0000" height="2.7000" x="0.1000" y="2.8000"/>
+  <rect style="fill:#c2d0c8;stroke:none" width="1.0000" height="2.7000" x="7.5500" y="2.8000"/>
+
+  <!-- Signal pads -->
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="2.1500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="3.4000" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="4.6500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="5.9000" y="0.1000"/>
+
+  <!-- Pin 1 indicator (triangle) -->
+  <polygon style="fill:#888888;stroke:none" points="2.0500,1.2000 2.4500,1.2000 2.2500,1.5464"/>
+
+  <!-- Origin marker: footprint anchor (0,0) -->
+  <!-- Per-pad anchor groups -->
+  </g></g><!--Connector_JST:JST_GH_SM10B-GHS-TB_1x10-1MP_P1.25mm_Horizontal:J2--><g transform="translate(118.3 110.49) scale(0.9999999380804955, 1.0) rotate(-180.0) translate(-8.075 -2.8)"><g id="pref_12_Connector_JST__JST_GH_SM10BGHSTB_1x101MP_P125mm_Horizontal_SM10BGHSTB"><!-- Connector body -->
+  <rect id="pref_14body" style="fill:#f0f0f0;stroke:#888888;stroke-width:0.05" x="0.2000" y="1.2000" width="15.7500" height="4.0500"/>
+
+  <!-- Mounting pads -->
+  <rect style="fill:#c2d0c8;stroke:none" width="1.0000" height="2.7000" x="0.1000" y="2.8000"/>
+  <rect style="fill:#c2d0c8;stroke:none" width="1.0000" height="2.7000" x="15.0500" y="2.8000"/>
+
+  <!-- Signal pads -->
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="2.1500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="3.4000" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="4.6500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="5.9000" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="7.1500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="8.4000" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="9.6500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="10.9000" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="12.1500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="13.4000" y="0.1000"/>
+
+  <!-- Pin 1 indicator (triangle) -->
+  <polygon style="fill:#888888;stroke:none" points="2.0500,1.2000 2.4500,1.2000 2.2500,1.5464"/>
+
+  <!-- Origin marker: footprint anchor (0,0) -->
+  <!-- Per-pad anchor groups -->
+  </g></g><!--Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal:J3--><g transform="translate(133.0205 110.49) scale(1.0, 1.0) rotate(-180.0) translate(-5.575 -2.8)"><g id="pref_12_Connector_JST__JST_GH_SM06BGHSTB_1x061MP_P125mm_Horizontal_SM06BGHSTB"><!-- Connector body -->
+  <rect id="pref_15body" style="fill:#f0f0f0;stroke:#888888;stroke-width:0.05" x="0.2000" y="1.2000" width="10.7500" height="4.0500"/>
+
+  <!-- Mounting pads -->
+  <rect style="fill:#c2d0c8;stroke:none" width="1.0000" height="2.7000" x="0.1000" y="2.8000"/>
+  <rect style="fill:#c2d0c8;stroke:none" width="1.0000" height="2.7000" x="10.0500" y="2.8000"/>
+
+  <!-- Signal pads -->
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="2.1500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="3.4000" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="4.6500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="5.9000" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="7.1500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="8.4000" y="0.1000"/>
+
+  <!-- Pin 1 indicator (triangle) -->
+  <polygon style="fill:#888888;stroke:none" points="2.0500,1.2000 2.4500,1.2000 2.2500,1.5464"/>
+
+  <!-- Origin marker: footprint anchor (0,0) -->
+  <!-- Per-pad anchor groups -->
+  </g></g><!--Connector_JST:JST_GH_SM07B-GHS-TB_1x07-1MP_P1.25mm_Horizontal:J6--><g transform="translate(145.861 110.49) scale(1.0, 1.0) rotate(-180.0) translate(-6.2 -2.8)"><g id="pref_12_Connector_JST__JST_GH_SM07BGHSTB_1x071MP_P125mm_Horizontal_SM07BGHSTB"><!-- Connector body -->
+  <rect id="pref_16body" style="fill:#f0f0f0;stroke:#888888;stroke-width:0.05" x="0.2000" y="1.2000" width="12.0000" height="4.0500"/>
+
+  <!-- Mounting pads -->
+  <rect style="fill:#c2d0c8;stroke:none" width="1.0000" height="2.7000" x="0.1000" y="2.8000"/>
+  <rect style="fill:#c2d0c8;stroke:none" width="1.0000" height="2.7000" x="11.3000" y="2.8000"/>
+
+  <!-- Signal pads -->
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="2.1500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="3.4000" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="4.6500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="5.9000" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="7.1500" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="8.4000" y="0.1000"/>
+  <rect style="fill:#e2e62c;stroke:none" width="0.6000" height="1.7000" x="9.6500" y="0.1000"/>
+
+  <!-- Pin 1 indicator (triangle) -->
+  <polygon style="fill:#888888;stroke:none" points="2.0500,1.2000 2.4500,1.2000 2.2500,1.5464"/>
+
+  <!-- Origin marker: footprint anchor (0,0) -->
+  <!-- Per-pad anchor groups -->
+  </g></g><!--Connector_JST:JST_GH_SM06B-GHS-TB_1x06-1MP_P1.25mm_Horizontal:J5--><g transform="translate(158.7015 110.49) scale(1.0, 1.0) rotate(-180.0) translate(-5.575 -2.8)"><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#pref_12_Connector_JST__JST_GH_SM06BGHSTB_1x061MP_P125mm_Horizontal_SM06BGHSTB"/></g></g></svg>
